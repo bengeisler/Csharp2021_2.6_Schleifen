@@ -1,0 +1,9 @@
+C:\Users\b\source\repos\Schleifen\Schleifen\bin\Debug\Schleifen.exe.config
+C:\Users\b\source\repos\Schleifen\Schleifen\bin\Debug\Schleifen.exe
+C:\Users\b\source\repos\Schleifen\Schleifen\bin\Debug\Schleifen.pdb
+C:\Users\b\source\repos\Schleifen\Schleifen\obj\Debug\Schleifen.Form1.resources
+C:\Users\b\source\repos\Schleifen\Schleifen\obj\Debug\Schleifen.Properties.Resources.resources
+C:\Users\b\source\repos\Schleifen\Schleifen\obj\Debug\Schleifen.csproj.GenerateResource.cache
+C:\Users\b\source\repos\Schleifen\Schleifen\obj\Debug\Schleifen.csproj.CoreCompileInputs.cache
+C:\Users\b\source\repos\Schleifen\Schleifen\obj\Debug\Schleifen.exe
+C:\Users\b\source\repos\Schleifen\Schleifen\obj\Debug\Schleifen.pdb
